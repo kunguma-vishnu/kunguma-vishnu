@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on building my career again after 2 years break in exploring different career options
-
+🔭 I’m currently working on building my career from ground up.
 [My contact page] (https://kunguma-vishnu.github.io/)
 
 <!--
